@@ -1,0 +1,53 @@
+Nodes = 8717 Edges = 31525
+
+Processor :1 
+1193 seconds
+
+Processor:2
+661 seconds
+
+Processor:4
+366 seconds
+
+Processor:8
+195 seconds
+
+Processor:16
+103 seconds
+
+
+
+Nodes = 81867 Edges = 545671
+genrally give wall time in all cases of time out is 2,3 hr
+
+Processor :1 
+Terminated due to time out
+
+Processor:2
+Terminated due to time out
+
+Processor:4
+Terminated due to time out
+
+Processor:8
+Terminated due to time out
+
+Processor:16
+Terminated due to time out
+
+Nodes = 82168 Edges = 870161
+
+Processor :1 
+Terminated due to time out
+
+Processor:2
+Terminated due to time out
+
+Processor:4
+Terminated due to time out
+
+Processor:8
+Terminated due to time out
+
+Processor:16
+Terminated due to time out
